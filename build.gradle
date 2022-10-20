@@ -1,0 +1,11 @@
+group = 'com.company'
+version = '1.0.1-RELEASE'
+sourceCompatibility = '17'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.guava:guava:30.1-jre'
+}
